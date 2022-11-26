@@ -1,0 +1,1 @@
+print("It is my python job to start train the baseline with deepmine, vox1 and test the model with vox2")
