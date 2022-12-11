@@ -8,4 +8,5 @@ links :</br>
 4.  baseline code : https://github.com/facebookresearch/fairseq</br>
 5.  baseline article : https://arxiv.org/abs/2110.05777</br>
 6.  asr like baseline : https://arxiv.org/abs/2110.00165</br>
+7. result of baseline (EER in Speaker Verification) : https://github.com/microsoft/UniSpeech</br>
 
