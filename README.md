@@ -16,3 +16,5 @@ links :</br>
 Implementation : </br>
 1. https://huggingface.co/microsoft/wavlm-base-sv</br>
 2. https://huggingface.co/spaces/microsoft/wavlm-speaker-verification/blob/main/app.py</br>
+3. https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb</br>
+4. https://huggingface.co/docs/transformers/model_doc/xlsr_wav2vec2 (Left PART IS IMPORTANT)</br>
