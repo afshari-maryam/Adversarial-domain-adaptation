@@ -1,8 +1,12 @@
 # Adversarial-domain-adaptation
 This  project is about domain adaptation in speech by adversarial network and deep neural naetwork.</br>
 
-links :</br>
+My codes are Completed or in progress:</br>
 
+1.  Speaker-Verification-Wav2Vec2-ECAPA-TDNN-Voxceleb1-Deepmine.ipynb (Completed)</br>
+2.  Part1.ipynb (In progress)</br>
+
+links :</br>
 
 1.  HF course:https://huggingface.co/course/chapter2/5?fw=pt</br>
 2.  Speech brain github: https://github.com/speechbrain/speechbrain</br>
