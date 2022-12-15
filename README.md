@@ -1,7 +1,7 @@
 # Adversarial-domain-adaptation
 This  project is about domain adaptation in speech by adversarial network and deep neural naetwork.</br>
 
-My codes are Completed or in progress:</br>
+My codes are Completed or in progress :</br>
 
 1.  Speaker-Verification-Wav2Vec2-ECAPA-TDNN-Voxceleb1-Deepmine.ipynb (Completed)</br>
 2.  Part1.ipynb (In progress)</br>
