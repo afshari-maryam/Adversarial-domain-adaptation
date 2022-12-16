@@ -17,7 +17,8 @@ links :</br>
 7. result of baseline (EER in Speaker Verification) : https://github.com/microsoft/UniSpeech</br>
 
 
-Implementation : </br>
+Implementation's Hint : </br>
+0. https://colab.research.google.com/github/m3hrdadfi/notebooks/blob/main/Fine_Tune_XLSR_Wav2Vec2_on_Persian_ShEMO_ASR_with_%F0%9F%A4%97_Transformers_ipynb.ipynb (very important</br>
 1. https://huggingface.co/microsoft/wavlm-base-sv</br>
 2. https://huggingface.co/spaces/microsoft/wavlm-speaker-verification/blob/main/app.py</br>
 3. https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb</br>
