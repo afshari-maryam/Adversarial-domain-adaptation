@@ -15,6 +15,12 @@ links :</br>
 5.  baseline article : https://arxiv.org/abs/2110.05777</br>
 6.  asr like baseline : https://arxiv.org/abs/2110.00165</br>
 7. result of baseline (EER in Speaker Verification) : https://github.com/microsoft/UniSpeech</br>
+new article can be the base and heppingÖ
+1. Meta-Generalization for Domain-Invariant Speaker Verification</br>
+2. MFA-Conformer: Multi-scale Feature Aggregation Conformer for Automatic Speaker Verification</br>
+3. LARGE-SCALE SELF-SUPERVISED SPEECH REPRESENTATION LEARNING FOR AUTOMATIC SPEAKER VERIFICATION-my base1</br>
+4. End-to-end speaker segmentation for overlap-aware resegmentation</br>
+5. Large-scale Self-Supervised Speech Representation Learning for Automatic Speaker Verification</br>
 
 
 Implementation's Hint : </br>
